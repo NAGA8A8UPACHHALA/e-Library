@@ -1,5 +1,3 @@
 # e-Library
 
-hi
-
-welcome
+welcome to VVIT e-Library
